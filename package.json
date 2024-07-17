@@ -1,0 +1,17 @@
+{
+  "name": "be.romainjavaux.monbeaucube",
+  "version": "1.1.2",
+  "displayName": "Mon beau cube",
+  "description": "Ce package contient un magnifique cube.",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://yourcompany.com/yourpackage/documentation",
+  "changelogUrl": "https://yourcompany.com/yourpackage/changelog",
+  "licensesUrl": "https://yourcompany.com/yourpackage/licenses",
+  "author": {
+    "name": "Romain Javaux",
+    "email": "romain.javaux@gmail.com",
+    "url": "https://github.com/SaaronWrites/"
+  }
+
+}
